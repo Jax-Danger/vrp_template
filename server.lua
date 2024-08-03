@@ -12,4 +12,6 @@ function template:__construct() -- this will always be called when the extension
 	vRP.Extension.__construct(self)
 end
 
+
+
 vRP:registerExtension(template) -- this completes the registration of the extension
