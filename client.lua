@@ -4,7 +4,7 @@ Jax.tunnel = {}
 
 function Jax:__construct()
 	vRP.Extension.__construct(self)
-	self.cfg = module("vrp_template", "cfg/cfg")
+	self.cfg = module("vrp_tutorial", "cfg/cfg")
 
 	RegisterCommand('id', function(source, args, rawCommand)
 		local id = self.remote.getID() -- returns the players first and last name
