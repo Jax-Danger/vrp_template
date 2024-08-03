@@ -6,6 +6,7 @@ In order to use this template, you need to ensure you have both a cfx default se
 Reference the below videos for the dependencies:
 * Create a fivem server - https://youtu.be/uSLSiBYZBQY?si=M4VeoNQb7_v2uFaG
 * Installing vrp - https://youtu.be/uK-GMMh74Fg?si=JZfRiUaW4JG-iukz
+
 Once you have the above, you can use the vrp_template.
 
 # Installation
