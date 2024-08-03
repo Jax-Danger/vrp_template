@@ -15,6 +15,7 @@ client_script {
 }
 
 files {
+	'client.lua',
 	"cfg/cfg.lua"
 }
 
